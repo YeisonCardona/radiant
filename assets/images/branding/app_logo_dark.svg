@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512mm"
+   height="512mm"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1" /><g
+     id="layer1"
+     transform="translate(-55.021445,-119.97769)"><g
+       id="g35"
+       transform="translate(-460.8962,-6.9715896e-5)"><g
+         id="g30"
+         style="fill:#e6b6f1;fill-opacity:1"
+         transform="matrix(7.0620716,0,0,7.0620716,165.63839,-727.31327)"><path
+           id="path28"
+           style="fill:#e6b6f1;fill-opacity:1;fill-rule:evenodd;stroke-width:29.3515;stroke-linejoin:round;paint-order:stroke fill markers"
+           d="m 55.021448,180.47787 v 11.99979 h 30.907674 v -11.99979 z m 44.181282,0 -7.792806,11.99979 H 115.0214 v -11.99979 z" /><path
+           id="path29"
+           style="fill:#e6b6f1;fill-opacity:1;fill-rule:evenodd;stroke-width:29.3515;stroke-linejoin:round;paint-order:stroke fill markers"
+           d="m 55.021448,165.97747 v 12.0003 h 30.907674 v -0.0372 -4.59042 l 2.500106,-3.84938 2.288232,-3.52329 z m 53.598282,0 -7.79333,12.0003 h 14.195 v -12.0003 z" /><path
+           id="path30"
+           style="fill:#e6b6f1;fill-opacity:1;fill-rule:evenodd;stroke-width:29.3515;stroke-linejoin:round;paint-order:stroke fill markers"
+           d="m 55.021448,151.47758 v 12.0003 h 7.687386 l -0.0987,-0.0641 7.751465,-11.93622 z" /></g><g
+         id="g33"
+         style="fill:#5e386a;fill-opacity:1"
+         transform="matrix(7.0620716,0,0,7.0620716,165.63839,-727.31327)"><path
+           id="path31"
+           style="fill:#5e386a;fill-opacity:1;fill-rule:evenodd;stroke-width:24.1656;stroke-linejoin:round;paint-order:stroke fill markers"
+           d="m 144.01093,49.535201 3.6e-4,51.867789 9.99973,-6.493894 7e-5,-51.868073 z"
+           transform="rotate(33)" /><path
+           id="path32"
+           style="fill:#5e386a;fill-opacity:1;fill-rule:evenodd;stroke-width:24.1656;stroke-linejoin:round;paint-order:stroke fill markers"
+           d="m 156.47959,58.727097 4e-5,34.57886 9.99973,-6.493896 3.9e-4,-34.579142 z"
+           transform="rotate(33)" /><path
+           id="path33"
+           style="fill:#5e386a;fill-opacity:1;fill-rule:evenodd;stroke-width:24.1656;stroke-linejoin:round;paint-order:stroke fill markers"
+           d="m 168.99375,67.889441 1.7e-4,29.97537 9.99992,15.398529 7e-5,-51.868077 z"
+           transform="rotate(33)" /></g></g></g></svg>
